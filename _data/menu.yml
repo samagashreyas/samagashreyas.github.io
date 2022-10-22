@@ -6,9 +6,9 @@
 #   href: "/blog/"
 #   active: blog
 
-- title: "CV"
-  href: "/cv/"
-  active: cv
+# - title: "CV"
+#   href: "/cv/"
+#   active: cv
 
 # - title: "For Students"
 #   href: "/for-students/"
