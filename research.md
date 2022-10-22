@@ -17,4 +17,7 @@ Sneha Kumar Jayaswal, Shalendra Singh, Prabhat Singh Malik, Sri Krishna Venigall
 
 
 ## Expository Articles
-The following is an expository article on the paper 
+The following is an expository article on the paper [On the topological social choice model](https://math.uchicago.edu/~shmuel/TSC.pdf). It also contains an extension of the results. 
+*[On the homotopy type of choice spaces](https://arxiv.org/abs/1807.07841)*
+
+My MS thesis is meant to be an exposition on Topological Data Analysis (TDA). Any person with some knowledge of basic linear algebra should be able to get an idea and understand the basics of TDA by reading this article. You can find it [here]().
