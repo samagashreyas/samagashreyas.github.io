@@ -1,23 +1,23 @@
 # Site settings
-title: Steven V. Miller
-email: steven.miller@ekohist.su.se
+title: Shreyas N. Samaga
+email: ssamaga@purdue.edu
 description: > # this means to ignore newlines until "baseurl:"
   I'm a political scientist at Stockholm University with research interests in
   international conflict and political behavior. Topics on my site include
   my teaching interests, R, LaTeX, and professional development.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://svmiller.com" # the base hostname & protocol for your site
-twitter_username: stevenvmiller
-github_username:  svmiller
-orcid_id: 0000-0003-4072-6263
-google_scholar_id: BNr-fb8AAAAJ
+url: "https://samagashreyas.github.io" # the base hostname & protocol for your site
+twitter_username: samagashreyas
+github_username:  samagashreyas
+# orcid_id: 
+google_scholar_id: _jGCYKMAAAAJ
 
 # Build settings
 markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title/
-jobtitle: "Universitetlektor"
+jobtitle: "PhD Student"
 excerpt_separator: "<!--more-->"
 
 # SEO stuff
