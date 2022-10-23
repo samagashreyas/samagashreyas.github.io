@@ -14,10 +14,9 @@ I seem to agree with this statement and strive towards explaining concepts as si
 
 ### Spring 2021
 CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists
-
+{% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=250 height=300 align="right" %}
 ## Purdue University
 
 ### Fall 2021, Spring 2022
 CS 177: Programming With Multimedia Objects
 
-{% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=250 height=300 align="center" %}
