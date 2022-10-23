@@ -18,13 +18,13 @@
 #     - subtitle: "Pi Sigma Alpha"
 #       subhref: "/for-students/pi-sigma-alpha/"
 
-- title: "Research"
+- title: "Research & Teaching"
   href: "/research/"
   active: research
 
-- title: "Teaching/Service"
-  href: "/teaching/"
-  active: teaching
+# - title: "Teaching/Service"
+#   href: "/teaching/"
+#   active: teaching
 # subcategories:
 #    - subtitle: "POSC 1020 – Introduction to International Relations"
 #      subhref: "http://posc1020.svmiller.com"
