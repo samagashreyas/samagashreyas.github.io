@@ -8,6 +8,7 @@ active: teaching
 
 
 "If you can't explain it simply, you haven't understood it well enough." - Albert Einstein. \
+\
 I seem to agree with this statement and strive towards explaining concepts as simply as possible and thus, enjoy teaching. I have been a teaching assistant to the following courses:
 {% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=250 height=300 align="right" %}
 ## Purdue University
