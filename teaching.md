@@ -20,4 +20,4 @@ CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientis
 ### Fall 2021, Spring 2022
 CS 177: Programming With Multimedia Objects
 
-{% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=200 height=200 align="center" %}
+{% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=250 height=300 align="center" %}
