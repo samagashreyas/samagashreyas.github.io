@@ -6,8 +6,21 @@ image: "edward-james-olmos-stand-deliver.jpg"
 active: teaching
 ---
 
-<!-- {% include image.html url="/images/edward-james-olmos-stand-deliver.jpg" caption="That's right. Tough guys don't do math; tough guys deep fry chicken for a living." width="400" align="right" %} -->
+{% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=400 height=250 align="center" %}
 
+I have been a teaching assistant to the following courses:
+
+## The Ohio State University
+
+### Spring 2021
+CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists
+
+## Purdue University
+
+### Fall 2021, Spring 2022
+CS 177: Programming With Multimedia Objects
+
+<---!
 This page includes my teaching philosophy and an empirical assessment of my teaching effectiveness. It also serves as a directory for the courses I have taught, which are freely available to current students, alumni of my classes, and any other interested observers. Transitions my website has made over the years---from university servers, to Wordpress, to (now) Github---have led to the loss of several old course websites in the shuffle. People interested in syllabi from previous courses I taught at Alabama and Illinois can e-mail me to obtain a past syllabus.
 
 <hr style="clear:both;visibility: hidden;" />  
@@ -59,3 +72,4 @@ I taught eight separate courses while a graduate student at the University of Al
 - PSC 204 (Intro to International Relations)
 - PSC 442 (Interstate Conflict)
 - PSC 446w (Political Economy of Security)
+--->

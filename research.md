@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Research & Teaching
+title: Research
 permalink: /research/
 active: research
 ---
-
 
 ## Preprint
 Yukti Makhija, Samarth Bhatia, Shalendra Singh, Sneha Kumar Jayaswal, Prabhat Singh Malik, Pallavi Gupta, **Shreyas N. Samaga**, Shreya Johri, Sri Krishna Venigalla, Rabi Narayan Hota, Surinder Singh Bhatia, Ishaan Gupta, *[Challenges in the application of a mortality prediction model for COVID-19 patients on an Indian cohort](https://arxiv.org/abs/2101.07215)*
@@ -22,17 +21,5 @@ The following is an expository article on the paper [On the topological social c
 
 My MS thesis is meant to be an exposition on Topological Data Analysis (TDA). The document is accessible to everyone who knows basic linear algebra. It can be found [here]().
 
-# Teaching
-I have been a teaching assistant to the following courses:
-
-## The Ohio State University
-
-### Spring 2021
-CSE 1222: Introduction to Computer Programming in C++ for Engineers and Scientists
-
-## Purdue University
-
-### Fall 2021, Spring 2022
-CS 177: Programming With Multimedia Objects
 
 
