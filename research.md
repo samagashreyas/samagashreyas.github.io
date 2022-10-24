@@ -5,6 +5,7 @@ permalink: /research/
 active: research
 ---
 
+ 
 ## Preprint
 Yukti Makhija, Samarth Bhatia, Shalendra Singh, Sneha Kumar Jayaswal, Prabhat Singh Malik, Pallavi Gupta, **Shreyas N. Samaga**, Shreya Johri, Sri Krishna Venigalla, Rabi Narayan Hota, Surinder Singh Bhatia, Ishaan Gupta, *[Challenges in the application of a mortality prediction model for COVID-19 patients on an Indian cohort](https://arxiv.org/abs/2101.07215)*
 
