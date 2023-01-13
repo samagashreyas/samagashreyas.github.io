@@ -20,7 +20,7 @@ Sneha Kumar Jayaswal, Shalendra Singh, Prabhat Singh Malik, Sri Krishna Venigall
 The following is an expository article on the paper [On the topological social choice model](https://math.uchicago.edu/~shmuel/TSC.pdf) by [Shmuel Weinberger](http://www.math.uchicago.edu/~shmuel/). It also contains an extension of the results in the paper. \
 **Shreyas Samaga**, *[On the homotopy type of choice spaces](https://arxiv.org/abs/1807.07841)*
 
-My MS thesis is meant to be an exposition on Topological Data Analysis (TDA). The document is accessible to anyone with basic linear algebra knowledge and would provide an introduction to the basics of the theory behind key concepts in TDA. It can be found [here](https://app.box.com/s/sg0s0bdhk65fknatbrm671i3ujp0ubq6).
+My MS thesis is meant to be an exposition on Topological Data Analysis (TDA). The document is accessible to anyone with basic linear algebra knowledge and would provide an introduction to the basics of the theory behind key concepts in TDA. It can be found [here](https://drive.google.com/file/d/18elCzn0MnloCVN4EJEWyZrcp_bLQt6ZN/view?usp=share_link).
 
 
 
