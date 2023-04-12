@@ -9,5 +9,3 @@ active: about
 
 
 I have interests outside academia. I play Lawn Tennis, Table Tennis, Squash, Basketball. I have practised Taekwondo for 8 years and have a blackbelt. I am interested in Indian Classical Music. I play Tabla, which is an Indian percussion instrument. 
-
-My Erd?s number is 3. Erd?s -> János Pach -> Tamal Dey -> Shreyas Samaga
