@@ -8,8 +8,6 @@ active: research
  
 ## Preprints
 
-Mustafa Hajij, Ghada Zamzmi, Theodore Papamarkou, Nina Miolane, Aldo Guzmán-Sáenz, Karthikeyan Natesan Ramamurthy, Tolga Birdal, Tamal K. Dey, Soham Mukherjee, **Shreyas N. Samaga**, Neal Livesay, Robin Walters, Paul Rosen, Michael T. Schaub, *[Topological Deep Learning: Going Beyond Graph Data](https://arxiv.org/abs/2206.00606)*
-
 Cheng Xin, Soham Mukherjee, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://arxiv.org/abs/2304.04970)*
 
 Yukti Makhija, Samarth Bhatia, Shalendra Singh, Sneha Kumar Jayaswal, Prabhat Singh Malik, Pallavi Gupta, **Shreyas N. Samaga**, Shreya Johri, Sri Krishna Venigalla, Rabi Narayan Hota, Surinder Singh Bhatia, Ishaan Gupta, *[Challenges in the application of a mortality prediction model for COVID-19 patients on an Indian cohort](https://arxiv.org/abs/2101.07215)*
