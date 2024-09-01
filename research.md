@@ -12,7 +12,7 @@ Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. De
 Tamal K. Dey, Florian Russold, and **Shreyas N. Samaga** (author order acc. to last name), *[Efficient Algorithms for Complexes of Persistence Modules with Applications](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.51)*, 40th International Symposium on Computational Geometry (SoCG 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2024.
 
 ## 2023
-Cheng Xin\*, Soham Mukherjee\*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)*, Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
+Cheng Xin\*, Soham Mukherjee\*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)* (Spotlight Oral), Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
 
 
 ## 2022
