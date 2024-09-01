@@ -13,6 +13,9 @@ I seem to agree with this statement and strive towards explaining concepts as si
 {% include image.html url="https://samagashreyas.github.io/images/math_teacher_comic.jpg" width=250 height=300 align="right" %}
 ## Purdue University
 
+### Spring 2024
+CS 531: Computational Geometry (1/2 TA)
+
 ### Fall 2021, Spring 2022
 CS 177: Programming With Multimedia Objects
 
