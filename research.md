@@ -7,12 +7,12 @@ active: research
 
  
 ## 2024
-Soham Mukherjee*, **Shreyas N. Samaga***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, rXiv preprint arXiv:2406.07100 (2024)
+Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, rXiv preprint arXiv:2406.07100 (2024)
 
 Tamal K. Dey, Florian Russold, and **Shreyas N. Samaga** (author order acc. to last name), *[Efficient Algorithms for Complexes of Persistence Modules with Applications](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.51)*, 40th International Symposium on Computational Geometry (SoCG 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2024.
 
 ## 2023
-Cheng Xin*, Soham Mukherjee*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)*, Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
+Cheng Xin\*, Soham Mukherjee\*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)*, Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
 
 
 ## 2022
