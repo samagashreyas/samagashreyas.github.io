@@ -7,7 +7,7 @@ active: research
 
  
 ## 2024
-Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, rXiv preprint arXiv:2406.07100 (2024)
+Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, arXiv preprint arXiv:2406.07100 (2024)
 
 Tamal K. Dey, Florian Russold, and **Shreyas N. Samaga** (author order acc. to last name), *[Efficient Algorithms for Complexes of Persistence Modules with Applications](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.51)*, 40th International Symposium on Computational Geometry (SoCG 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2024.
 
