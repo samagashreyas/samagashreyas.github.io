@@ -5,7 +5,9 @@ permalink: /research/
 active: research
 ---
 
- 
+## 2025
+Tamal K. Dey, **Shreyas N. Samaga**, *[Quasi Zigzag Persistence: A Topological Framework for Analyzing Time-Varying Data](https://www.arxiv.org/abs/2502.16049)*, arXiv preprint arXiv:2502.16049 (2025)
+
 ## 2024
 Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, arXiv preprint arXiv:2406.07100 (2024)
 
