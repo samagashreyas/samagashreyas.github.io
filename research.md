@@ -6,18 +6,20 @@ active: research
 ---
 
 ## 2026
-**Shreyas N. Samaga**, Gilberto Gonzalez Arroyo, Tamal K. Dey, *[HalluZig: Hallucination Detection using Zigzag Persistence](https://arxiv.org/abs/2601.01552)*, arXiv preprint arXiv:2601.01552 (2026), (Accepted at EACL 2026 Main Conference)
+
+Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2026.79)*, 42nd International Symposium on Computational Geometry (SoCG 2026). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2026
+
+**Shreyas N. Samaga**, Gilberto Gonzalez Arroyo, Tamal K. Dey, *[HalluZig: Hallucination Detection using Zigzag Persistence](https://aclanthology.org/2026.eacl-long.159.pdf)*, Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers) (EACL Main), 2026
 
 ## 2025
-Tamal K. Dey, **Shreyas N. Samaga**, *[Quasi Zigzag Persistence: A Topological Framework for Analyzing Time-Varying Data](https://www.arxiv.org/abs/2502.16049)*, arXiv preprint arXiv:2502.16049 (2025), (Accepted as a **Spotlight Paper** at TAG-DS 2025, to appear in PMLR)
+Tamal K. Dey, **Shreyas N. Samaga** (author order acc. to last name), *[Quasi Zigzag Persistence: A Topological Framework for Analyzing Time-Varying Data](https://www.arxiv.org/abs/2502.16049)*, **(Spotlight Oral)**, Proceedings of the 1st Conference on Topology, Algebra, and Geometry in Data Science(TAG-DS 2025), in Proceedings of Machine Learning Research 321:147--165, 2025
 
 ## 2024
-Soham Mukherjee\*, **Shreyas N. Samaga \***, Cheng Xin, Steve Oudot, Tamal K. Dey, *[D-GRIL: End-to-End Topological Learning with 2-parameter Persistence](https://arxiv.org/pdf/2406.07100)*, arXiv preprint arXiv:2406.07100 (2024), (Accepted at SoCG 2026)
 
-Tamal K. Dey, Florian Russold, and **Shreyas N. Samaga** (author order acc. to last name), *[Efficient Algorithms for Complexes of Persistence Modules with Applications](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.51)*, 40th International Symposium on Computational Geometry (SoCG 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2024.
+Tamal K. Dey, Florian Russold, and **Shreyas N. Samaga** (author order acc. to last name), *[Efficient Algorithms for Complexes of Persistence Modules with Applications](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.SoCG.2024.51)*, 40th International Symposium on Computational Geometry (SoCG 2024). Schloss Dagstuhl–Leibniz-Zentrum für Informatik, 2024
 
 ## 2023
-Cheng Xin\*, Soham Mukherjee\*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)* (Spotlight Oral), Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
+Cheng Xin\*, Soham Mukherjee\*, **Shreyas N. Samaga**, Tamal K. Dey, *[GRIL: A 2-parameter Persistence Based Vectorization for Machine Learning](https://proceedings.mlr.press/v221/xin23a.html)* **(Spotlight Oral)**, Proceedings of 2nd Annual Workshop on Topology, Algebra, and Geometry in Machine Learning (TAG-ML), in Proceedings of Machine Learning Research 221:313-333, 2023
 
 
 ## 2022
